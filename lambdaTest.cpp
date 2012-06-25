@@ -12,6 +12,8 @@ using namespace std;
 
 array<string,50> a;
 
+// And now I've changed the file
+
 class func
 {
 	int val;
