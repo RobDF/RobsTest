@@ -14,6 +14,8 @@ array<string,50> a;
 
 // And now I've changed the file
 
+// Yet another change
+
 class func
 {
 	int val;
